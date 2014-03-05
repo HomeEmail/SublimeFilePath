@@ -1,0 +1,17 @@
+[
+	{
+		"id": "file",
+		"children":
+		[
+			{
+				"caption": "FilePathSession",
+				"id": "FilePath-Session",
+				"children":
+				[
+					{ "command": "save_session" },
+					{ "command": "open_session" }
+				]
+			}
+		]
+	}
+]

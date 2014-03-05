@@ -1,0 +1,4 @@
+[
+	{ "keys": ["shift+alt+f"], "command": "save_session" },
+	{ "keys": ["shift+alt+o"], "command": "open_session" }
+]

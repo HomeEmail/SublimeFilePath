@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "SaveSession: FilePath Session",
+        "command": "save_session",
+        "args": {}
+    }
+]
